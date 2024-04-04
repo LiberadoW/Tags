@@ -1,6 +1,6 @@
 import './App.css'
 import { useQuery } from '@tanstack/react-query'
-import DataTable from './components/DataTable/dataTable';
+import DataTable from './components/test/dataTable';
 import RowInput from './components/RowInput/rowInput';
 import { CircularProgress, Box } from '@mui/material';
 import { QueryData } from './types'
