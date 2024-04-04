@@ -30,3 +30,9 @@ export interface QueryData {
     isLoading: boolean;
     error: Error | null;
 }
+
+export interface Row {
+    name: string;
+    count: number;
+    id: number;
+}
