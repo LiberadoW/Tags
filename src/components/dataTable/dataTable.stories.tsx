@@ -1,6 +1,6 @@
 import { Meta, StoryObj } from '@storybook/react';
 
-import DataTable from './dataTable.tsx';
+import DataTable from './dataTable';
 
 const meta: Meta<typeof DataTable> = {
     title: 'DataTable',
